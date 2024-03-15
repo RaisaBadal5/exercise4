@@ -1,13 +1,13 @@
 //
-//  Homework4UITests.swift
-//  Homework4UITests
+//  dav4UITests.swift
+//  dav4UITests
 //
-//  Created by Default on 15.03.24.
+//  Created by Default on 16.03.24.
 //
 
 import XCTest
 
-final class Homework4UITests: XCTestCase {
+final class dav4UITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

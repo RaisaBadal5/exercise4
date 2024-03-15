@@ -1,13 +1,13 @@
 //
-//  Homework4UITestsLaunchTests.swift
-//  Homework4UITests
+//  dav4UITestsLaunchTests.swift
+//  dav4UITests
 //
-//  Created by Default on 15.03.24.
+//  Created by Default on 16.03.24.
 //
 
 import XCTest
 
-final class Homework4UITestsLaunchTests: XCTestCase {
+final class dav4UITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
